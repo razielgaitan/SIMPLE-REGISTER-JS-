@@ -4,4 +4,4 @@ This code is free to use.
 
 ## Wide Screen
 
-![wideScreen](wideScreen.png)
+![wideScreen](wideScreen.PNG)
